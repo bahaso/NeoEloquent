@@ -1,5 +1,5 @@
 {
-    "name": "vinelab/neoeloquent",
+    "name": "edwinfadilah/neoeloquent",
     "description": "Laravel (5.8) wrapper for the Neo4j graph database REST interface",
     "keywords": [
         "laravel",
@@ -15,7 +15,7 @@
             "email": "abed.halawi@vinelab.com"
         },
         {
-            "name": "Edwin Fadilah",
+            "name": "Edwin Fadilah Lukman",
             "email": "edwinfadilah@gmail.com"
         }
     ],
